@@ -8,6 +8,6 @@ I'm mostly working around data at scale
 I like to tinker around many topics around data engineering.
 I often work with Scala, SQL & Typescript but I touch whatever I need to.
 
-I'm building https://bqbooster.kayrnt.fr on my free time.
+I'm building https://bqbooster.com on my free time.
 
 You can reach me directly on [Twitter](https://twitter.com/Kayrnt) or at kayrnt 'at' gmail.com
